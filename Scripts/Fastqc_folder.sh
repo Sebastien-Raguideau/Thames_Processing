@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 # $1 is the folder where all data are stored
 # A new folder called Quality_Check, will be generated in folder $1
 # Multiqc report will be generated in that folder too
